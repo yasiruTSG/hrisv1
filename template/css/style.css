@@ -1,5 +1,5 @@
 .bg-hris-forms{
-    background-color: #E5E5E5;!important;
+    background-color: #ffffff;!important;
 }
 .bg-hris {
     background-color: #00BC89;!important;
@@ -21,7 +21,7 @@
     left: 0;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     transition: all 0.4s;
-    background: #F7F7F7;
+    background: #f7f7f7;
 }
 .page-content {
     width: calc(100% - 17rem);
