@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a433d842-5106-4fa3-aa33-24ca340b3fd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/view/components/image-upload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/profile-img-upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/profile-img-upload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/util/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/util/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/components/image-upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/components/image-upload.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <workItem from="1628501303307" duration="4665000" />
       <workItem from="1628663974853" duration="41000" />
       <workItem from="1628707067117" duration="6537000" />
-      <workItem from="1628757683153" duration="986000" />
+      <workItem from="1628757683153" duration="1977000" />
     </task>
     <task id="LOCAL-00001" summary="Read Me">
       <created>1628757709995</created>
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628758290588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creating image upload component">
+      <created>1628759142753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628759142753</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,21 +90,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Read Me" />
     <MESSAGE value="Changing side bar width" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing side bar width" />
+    <MESSAGE value="creating image upload component" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating image upload component" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="22" key="CommitChangelistDialog2" timestamp="1628758290030">
+    <state x="304" y="22" key="CommitChangelistDialog2" timestamp="1628759142159">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="304" y="22" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1628758290030" />
+    <state x="304" y="22" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1628759142159" />
     <state x="540" y="377" key="NewPhpFileDialog" timestamp="1628759018124">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="540" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1628759018124" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1628758295280">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1628759147170">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1628758295280" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1628759147170" />
     <state x="421" y="213" width="656" height="548" key="find.popup" timestamp="1628752414918">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

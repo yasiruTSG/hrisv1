@@ -27,7 +27,7 @@
             <p class="card-text text-center fs-7">Attach a professional photograph, <br> which is similar to passport photo.</p>
         </div>
     </div>
-    <div class="card-body">
+    <div class="card-body mb-2">
         <div class="row g-3">
             <div class="col-sm-4">
             </div>

@@ -1,5 +1,4 @@
-
- export function fetchPost (url,bodyData) {
+export function fetchPost (url,bodyData) {
      return fetch(url, {
         method: 'POST', // or 'PUT'
         headers: {
