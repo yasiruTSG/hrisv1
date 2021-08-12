@@ -7,5 +7,7 @@
         crossorigin="anonymous"></script>
 <!--Bootstrap core js-->
 <script src="../template/plugins/bootstrap/5.0.2/js/bootstrap.min.js"></script>
+<!--  -->
+<script src="../template/plugins/jquery-validation/dist/jquery.validate.min.js"></script>
 <!--Custom js-->
 <script src="../template/js/main.js"></script>

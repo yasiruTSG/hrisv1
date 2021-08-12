@@ -1,11 +1,15 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
 .bg-hris-forms{
-    background-color: #ffffff;!important;
+    background-color: #ffffff !important;
 }
 .bg-hris {
-    background-color: #00BC89;!important;
+    background-color: #00BC89 !important;
 }
 .card {
-    background-color: #F6F6F6;!important;
+    background-color: #F6F6F6 !important;
 }
 
 .hris-complete-status-txt{
