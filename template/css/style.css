@@ -1,0 +1,124 @@
+.bg-hris-forms{
+    background-color: #E5E5E5;!important;
+}
+.bg-hris {
+    background-color: #00BC89;!important;
+}
+.card {
+    background-color: #F6F6F6;!important;
+}
+
+.hris-complete-status-txt{
+    float:right
+}
+
+.hris-sidebar {
+    min-width: 18rem;
+    width: 18rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: all 0.4s;
+    background: #F7F7F7;
+}
+.page-content {
+    width: calc(100% - 17rem);
+    margin-left: 17rem;
+    transition: all 0.4s;
+}
+
+#sidebar .custom-menu .btn-hris-sidebar {
+    color: #000000;
+    background-color: #F7F7F7;
+    border-color: #F7F7F7;
+}
+
+#sidebar .custom-menu .btn {
+    width: 60px;
+    height: 60px;
+    position: relative;
+}
+
+#sidebar .custom-menu .btn i {
+    margin-right: -40px;
+    font-size: 14px;
+}
+
+#sidebar .custom-menu .btn.btn-hris-sidebar {
+    background: transparent;
+    border-color: transparent;
+}
+#sidebar .custom-menu .btn.btn-hris-sidebar:after {
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: #F7F7F7;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#sidebar .custom-menu .btn.btn-hris-sidebar:hover, #sidebar .custom-menu .btn.btn-hris-sidebar:focus {
+    background: transparent !important;
+    border-color: transparent !important;
+    outline: none;
+    box-shadow: none;
+}
+
+
+.custom-menu {
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 0;
+    margin-right: -20px;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+
+#sidebar.active {
+    margin-left: -18rem;
+}
+
+#content.active {
+    width: 100%;
+    margin: 0;
+}
+
+
+.nav-link{
+    text-transform: capitalize;
+}
+.nav-link-hover:hover {
+    background: #c9f5ea;
+}
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -18rem;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #content {
+        width: 100%;
+        margin: 0;
+    }
+    #content.active {
+        margin-left: 18rem;
+        width: calc(100% - 18rem);
+    }
+}
+
+/*Bootstrap Font Size*/
+.fs-7 {
+    font-size: 0.8rem!important;
+}
