@@ -13,8 +13,8 @@
 }
 
 .hris-sidebar {
-    min-width: 18rem;
-    width: 18rem;
+    min-width: 17rem;
+    width: 17rem;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -86,7 +86,7 @@
 }
 
 #sidebar.active {
-    margin-left: -18rem;
+    margin-left: -17rem;
 }
 
 #content.active {
@@ -103,7 +103,7 @@
 }
 @media (max-width: 768px) {
     #sidebar {
-        margin-left: -18rem;
+        margin-left: -17rem;
     }
     #sidebar.active {
         margin-left: 0;
@@ -113,8 +113,8 @@
         margin: 0;
     }
     #content.active {
-        margin-left: 18rem;
-        width: calc(100% - 18rem);
+        margin-left: 17rem;
+        width: calc(100% - 17rem);
     }
 }
 
